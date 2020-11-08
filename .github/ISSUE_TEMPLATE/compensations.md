@@ -2,7 +2,7 @@
 name: Compensations
 about: Describe the reason for the compensations
 title: ''
-labels: report
+labels: compensations
 assignees: ''
 
 ---
